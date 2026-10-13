@@ -1,0 +1,9 @@
+[server]
+maxUploadSize = 200
+
+[theme]
+base = "light"
+primaryColor = "#2563eb"
+
+[theme.sidebar]
+textColor = "#262730"
